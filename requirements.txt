@@ -1,6 +1,6 @@
-Flask==1.0.2
-requests==2.21.0
-numpy==1.16.1
+Flask
+requests
+numpy
 
 [requires]
-python_version = "2.7"
+python_version >= "3"
